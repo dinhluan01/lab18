@@ -1,0 +1,13 @@
+#carouselExampleIndicators .carousel-caption {
+  bottom: 100px;
+}
+footer a {
+  color: rgba(60, 60, 255, 0.993);
+  text-decoration: underline;
+}
+footer div {
+  margin-top: 150px;
+  display: grid;
+  grid-template-columns: 300px 80px 80px auto 30px;
+  text-align: right;
+}
